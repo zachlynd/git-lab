@@ -8,8 +8,13 @@ int main(){
 	
 	cout<<add(5,3)<<endl;
 	cout<<subtract(5,3)<<endl;
+    
 	
 	return 0;
 	
 }
 
+void (int a, int b)
+{
+    return (a - b);
+}
